@@ -6,6 +6,8 @@ public class MyFirstClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Java- Welcome to the GIT: ");
+		
+		System.out.println("Test Changes");
 
 	}
 
