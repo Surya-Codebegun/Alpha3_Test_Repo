@@ -11,6 +11,8 @@ public class MyFirstClass {
 		
 		System.out.println("feature Branch commit test");
 		System.out.println("Hello chages");
+		
+		System.out.println("Test Commit");
 
 	}
 
